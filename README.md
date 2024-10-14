@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=16521057&assignment_repo_type=AssignmentRepo)
 # Horror Movies Exercise
 
 Code Louisville Data Analysis Exercise
@@ -41,8 +42,7 @@ You will write your query in the `sql/horror_movies.sql` file. Running the
 1. Create a virtual environment and install the packages listed in the 
 `requirements.txt` file (instructions below).
 1. Add your SQL query to the `sql/horror_movies.sql` file.
-1. Run the `run_sql.py` script. This script will execute your query against the 
-database and save the results to `data/movies.csv`.
+1. Run the `run_sql.py` script. This script will execute your query against the database and save the results to `data/movies.csv`.
 1. Add, Commit, and Push your `sql/horror_movies.sql` and `data/movies.csv` 
 files back to GitHub.
 
